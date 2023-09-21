@@ -1,0 +1,3 @@
+Hello, my name is Joyce Liu, a first year computer science major at Drexel University. 
+I am interested in computer graphics and game design and enjoy working on the front-end
+development. 

@@ -1,0 +1,2 @@
+Bio:
+Hi, my name is Ankit Patel. I am a first year CS major at Drexel University, and a member of Team 19 in CI102. I have an interest in designing video games, learning about AI, and storytelling through art. Our project is a game that tells the story of the legendary Karna, a demi-god from the Mahabharata, and his journey in finding himself.
